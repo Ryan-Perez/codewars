@@ -10,7 +10,7 @@ Example:
 toBinary(1)  /* should return 1 */
 toBinary(5)  /* should return 101 */
 toBinary(11) /* should return 1011 */
-*/
+
 
 //Answer
 const toBinary = n => Number(n.toString(2))
